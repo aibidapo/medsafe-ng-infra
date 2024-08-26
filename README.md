@@ -1,2 +1,1 @@
-# medsafe-ng-infra
-Repository for medsafe-ng-infra web app
+# This readme repository is for the medsafe-ng-infra MedSafe web app.
